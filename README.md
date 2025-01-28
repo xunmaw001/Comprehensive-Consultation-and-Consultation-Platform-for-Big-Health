@@ -1,0 +1,2 @@
+# Comprehensive-Consultation-and-Consultation-Platform-for-Big-Health
+基于SSM框架的大健康综合咨询问诊平台，融合Spring、SpringMVC与MyBatis优势。用户可在线注册登录，填写健康信息。平台汇聚多领域专业医生，用户能选择合适医生进行图文或视频问诊，医生及时回复解答。健康资讯模块定期推送科普文章。病历管理方便用户查看过往问诊记录。同时，权限管理保障用户健康信息安全，不同角色如医生、管理员权限分明。该平台为用户提供便捷的健康咨询问诊服务，助力大健康管理。
